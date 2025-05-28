@@ -8,6 +8,7 @@
     <a>Jun Yu</a><sup>2</sup>
     &nbsp;·&nbsp;
     <a>Zhenyu Lou</a><sup>3</sup>
+    &nbsp;·&nbsp;
     <a>Qiongjie Cui</a><sup>4</sup>
   </p>
   <p align="center">
