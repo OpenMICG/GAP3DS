@@ -7,8 +7,8 @@
     &nbsp;·&nbsp;
     <a>Jun Yu</a><sup>2</sup>
     &nbsp;·&nbsp;
-    <a>Zhenyu Lou</a><sup>1</sup>
-    <a>Qiongjie Cui</a><sup>1</sup>
+    <a>Zhenyu Lou</a><sup>3</sup>
+    <a>Qiongjie Cui</a><sup>4</sup>
   </p>
   <p align="center">
     <sup>1</sup>Hangzhou Normal University
